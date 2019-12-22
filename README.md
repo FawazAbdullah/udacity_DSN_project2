@@ -46,3 +46,5 @@ Inside the train, test and validate folders there should be folders bearing a sp
 ## GPU/CPU
 As this project uses deep CNNs, for training of network you need to use a GPU. However after training you can always use normal CPU for the prediction phase.
 
+## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+Credits must be given to Udacity for providing starting code for this project. The data was provided by Udacity partners at Bertelsmann Arvato Analytics.
